@@ -396,7 +396,7 @@ class SingleLinkedList:
             print("It's already empty")
             return
         self.head=None
-        print("cleared")   
+        # print("cleared")   
     
    
    
